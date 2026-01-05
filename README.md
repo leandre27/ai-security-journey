@@ -1,1 +1,100 @@
-#  My AI Security Journey**Goal:** Transform from Full-Stack Developer to AI Red Team Specialist + AI Engineer + AppSec Expert**Timeline:** 24 months (Started: 23/12/2025)**Current Status:** Month 1 - AI fundamentals---## Progress Tracker- ✅ Phase 1 - Month 1: AI Fundamentals- ✅ Phase 1 - Month 2: RAG Systems- ��� Phase 1 - Month 3: AppSec (In Progress)- ⏳ Phase 1 - Month 4-12: ...---## Tech Stack**Current:**- Backend: Laravel 11- Frontend: Nuxt 3, Vue 3- AI: Anthropic Claude API, OpenAI API- Security: OWASP, Burp Suite- DevOps: Docker, Git**Learning:**- LangChain, RAG, Vector DBs- AI Security, Prompt Injection- Penetration Testing---## Projects### Completed1. **[Simple Chatbot](./projects/01-simple-chatbot)** - Basic Claude API integration2. **[Q&A System](./projects/02-qa-documents)** - RAG with document upload3. ...### In Progress- Project X...---## Blog Posts- [Week 1: My First AI Application](./blog-posts/week-1-first-ai-app.md)- [Building Secure RAG Systems](./blog-posts/secure-rag.md)- ...---## Learning LogWeekly updates on my progress → [LEARNING_LOG.md](./LEARNING_LOG.md)---## Goals**6 Months:**- Master AI application development- Understand AppSec fundamentals- First freelance AI project**12 Months:**- 15+ production-ready AI projects- Basic penetration testing skills**24 Months:**- AI Red Team Specialist- Published vulnerabilities---## Connect- LinkedIn: www.linkedin.com/in/ange-kouamalan-3653a3253- Email: angekouamalan27@gmail.com**Open to:** Freelance opportunities, collaborations, mentorship exchanges---*Last updated: 23/12/2025*
+#  My AI Security Journey
+
+**Goal:** Transform from Full-Stack Developer to AI Red Team Specialist + AI Engineer + AppSec Expert
+
+**Timeline:** 24 months (Started: 23/12/2025)
+
+**Current Status:** Month 1 - AI fundamentals
+
+---
+
+## Progress Tracker
+
+- ✅ Phase 1 - Month 1: AI Fundamentals
+- ✅ Phase 1 - Month 2: RAG Systems
+- ��� Phase 1 - Month 3: AppSec (In Progress)
+- ⏳ Phase 1 - Month 4-12: ...
+
+---
+
+## Tech Stack
+
+**Current:**
+- Backend: Laravel 11
+- Frontend: Nuxt 3, Vue 3
+- AI: Anthropic Claude API, OpenAI API
+- Security: OWASP, Burp Suite
+- DevOps: Docker, Git
+
+**Learning:**
+- LangChain, RAG, Vector DBs
+- AI Security, Prompt Injection
+- Penetration Testing
+
+---
+
+## Projects
+
+### Completed
+1. **[Simple Chatbot](./projects/01-simple-chatbot)** - Basic Claude API integration
+2. **[Q&A System](./projects/02-qa-documents)** - RAG with document upload
+3. ...
+
+### In Progress
+- Project X...
+
+---
+
+## Blog Posts
+
+- [Week 1: My First AI Application](./blog-posts/week-1-first-ai-app.md)
+- [Building Secure RAG Systems](./blog-posts/secure-rag.md)
+- ...
+
+---
+
+## Learning Log
+
+Weekly updates on my progress → [LEARNING_LOG.md](./LEARNING_LOG.md)
+
+---
+
+## Goals
+
+**6 Months:**
+- Master AI application development
+- Understand AppSec fundamentals
+- First freelance AI project
+
+**12 Months:**
+- 15+ production-ready AI projects
+- Basic penetration testing skills
+
+**24 Months:**
+- AI Red Team Specialist
+- Published vulnerabilities
+
+---
+
+## 👨‍💻 About Me
+   Full-stack developer (Laravel, Nuxt, Vue) passionate about AI and cybersecurity.
+   Based in Côte d'Ivoire 🇨🇮
+   Transitioning to AI Security Engineer.
+---
+## 🛠️ Current Tech Stack
+   - Backend: Laravel, PHP
+   - Frontend: Nuxt 3, Vue.js, Tailwind CSS
+   - Databases: PostgreSQL, MySQL
+   - DevOps: Docker, Git
+   - Learning: AI/ML, AppSec, Penetration Testing
+---
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/ange-kouamalan-3653a3253
+- Email: angekouamalan27@gmail.com
+
+**Open to:** Freelance opportunities, collaborations, mentorship exchanges
+
+
+*Last updated: 23/12/2025*
